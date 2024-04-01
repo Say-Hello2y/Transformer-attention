@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you think my work is useful, please cite it as below."
+authors:
+- family-names: "He"
+  given-names: "Longxiang"
+  orcid: "https://orcid.org/0009-0002-4904-8884"
+title: "The full derivation of Transformer gradient"
+version: 0.0.0
+// doi: 10.5281/zenodo.1234
+date-released: 2022-5-1
+url: "https://github.com/Say-Hello2y/Transformer-attention.git"
